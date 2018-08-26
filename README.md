@@ -1,2 +1,2 @@
 # Training-courses
-U_1.ipyn - введение в машинное обучение week1
+Introduction to machine learning - введение в машинное обучение
